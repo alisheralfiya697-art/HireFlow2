@@ -1,0 +1,6 @@
+{
+  "name": "HireFlow AI - Recruitment Intelligence Platform",
+  "description": "Intelligent recruitment operating system that analyzes candidates, provides explainable match scores, generates tailored interview plans, and automates hiring workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
